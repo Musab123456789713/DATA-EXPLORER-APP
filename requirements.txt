@@ -1,4 +1,5 @@
-streamlit 
+streamlit
 pandas
-seaborn 
-matplotlib.pyplot
+matplotlib
+seaborn
+openpyxl
